@@ -1,6 +1,6 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:Print a Sentence.exe,org.eclipse.launchbar.core.descriptorType.default\:Print a Integer Entered by a User.exe
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Print a Sentence.exe,org.eclipse.launchbar.core.descriptorType.default\:Print a Integer Entered by a User.exe,org.eclipse.launchbar.core.descriptorType.default\:Add Two Integers.exe
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:Print\ a\ Sentence.exe/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:Print\ a\ Sentence.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
