@@ -1,0 +1,5 @@
+15:53:15 **** Rebuild of configuration Debug for project Check Whether a Number is Even or Odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Check Whether a Number is Even or Odd.exe" main.o 
+Info: Nothing to build for Check Whether a Number is Even or Odd
