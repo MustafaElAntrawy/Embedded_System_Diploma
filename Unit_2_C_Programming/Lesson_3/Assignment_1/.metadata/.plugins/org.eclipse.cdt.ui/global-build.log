@@ -1,5 +1,5 @@
-15:00:29 **** Incremental Build of configuration Debug for project Print a Sentence ****
+15:13:00 **** Incremental Build of configuration Debug for project Print a Integer Entered by a User ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Print a Sentence.exe" main.o 
-Info: Nothing to build for Print a Sentence
+gcc -o "Print a Integer Entered by a User.exe" main.o 
+Info: Nothing to build for Print a Integer Entered by a User
