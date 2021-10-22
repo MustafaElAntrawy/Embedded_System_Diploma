@@ -1,5 +1,5 @@
-15:19:20 **** Rebuild of configuration Debug for project Add Two Integers ****
+15:24:29 **** Incremental Build of configuration Debug for project Multiply two Floating Point Numbers ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Add Two Integers.exe" main.o 
-Info: Nothing to build for Add Two Integers
+gcc -o "Multiply two Floating Point Numbers.exe" main.o 
+Info: Nothing to build for Multiply two Floating Point Numbers
