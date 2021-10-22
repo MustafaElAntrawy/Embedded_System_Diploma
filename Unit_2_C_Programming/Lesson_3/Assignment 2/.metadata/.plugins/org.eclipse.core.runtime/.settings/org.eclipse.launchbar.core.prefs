@@ -1,6 +1,6 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:Check Whether a Number is Even or Odd.exe,org.eclipse.launchbar.core.descriptorType.default\:Check Vowel or Consonant.exe,org.eclipse.launchbar.core.descriptorType.default\:Find the Largest Number Among Three Numbers.exe,org.eclipse.launchbar.core.descriptorType.default\:Check Whether a Number is Positive or Negitive.exe,org.eclipse.launchbar.core.descriptorType.default\:Check Whether a Character is an Alphabet or not.exe
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Check Whether a Number is Even or Odd.exe,org.eclipse.launchbar.core.descriptorType.default\:Check Vowel or Consonant.exe,org.eclipse.launchbar.core.descriptorType.default\:Find the Largest Number Among Three Numbers.exe,org.eclipse.launchbar.core.descriptorType.default\:Check Whether a Number is Positive or Negitive.exe,org.eclipse.launchbar.core.descriptorType.default\:Check Whether a Character is an Alphabet or not.exe,org.eclipse.launchbar.core.descriptorType.default\:Calculate Sum of Natural Numbers.exe
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:Check\ Whether\ a\ Number\ is\ Even\ or\ Odd.exe/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:Check\ Whether\ a\ Number\ is\ Even\ or\ Odd.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

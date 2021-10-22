@@ -1,5 +1,5 @@
-17:03:29 **** Incremental Build of configuration Debug for project Check Whether a Character is an Alphabet or not ****
+17:08:35 **** Rebuild of configuration Debug for project Calculate Sum of Natural Numbers ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Check Whether a Character is an Alphabet or not.exe" main.o 
-Info: Nothing to build for Check Whether a Character is an Alphabet or not
+gcc -o "Calculate Sum of Natural Numbers.exe" main.o 
+Info: Nothing to build for Calculate Sum of Natural Numbers
