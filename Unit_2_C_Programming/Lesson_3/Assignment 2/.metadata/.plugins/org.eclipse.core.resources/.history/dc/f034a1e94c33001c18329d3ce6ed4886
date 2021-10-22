@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main(){
+	float a, b;
+	char op;
+	printf("Enter operator either + or - or * or /: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%c", &op);
+	printf("Enter two operands: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%f , %f", &a, &b);
+
+	if(a > b){
+		if (a > c) printf ("Largest number = %f", a);
+		else printf ("Largest number = %f", c);
+	}else{
+		if (b > c) printf ("Largest number = %f", b);
+		else printf ("Largest number = %f", c);
+	}
+
+	return 0;
+}

@@ -209,3 +209,6 @@ java.io.IOException: Cannot run program "g++": Launching failed
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-10-22 17:10:52.628
 !MESSAGE Indexed 'Find factorial of a Number' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-22 17:21:19.999
+!MESSAGE Indexed 'Simple Calculator' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
