@@ -1,4 +1,5 @@
-16:28:24 **** Incremental Build of configuration Debug for project Find the Largest Number Among Three Numbers ****
+16:37:07 **** Incremental Build of configuration Debug for project Check Whether a Number is Positive or Negitive ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Find the Largest Number Among Three Numbers.exe" main.o 
+gcc -o "Check Whether a Number is Positive or Negitive.exe" main.o 
+Info: Nothing to build for Check Whether a Number is Positive or Negitive
