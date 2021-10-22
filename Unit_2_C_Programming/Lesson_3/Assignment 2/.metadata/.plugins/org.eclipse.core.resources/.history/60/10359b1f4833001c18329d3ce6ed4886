@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+	float a, b ,c;
+	printf("a: %d" , a);
+	printf("z: %d" , z);
+	printf("A: %d" , A);
+	printf("Z: %d" , Z);
+
+	return 0;
+}

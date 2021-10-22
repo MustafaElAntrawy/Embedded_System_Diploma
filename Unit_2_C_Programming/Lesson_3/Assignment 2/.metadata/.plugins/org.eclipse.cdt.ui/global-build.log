@@ -1,5 +1,5 @@
-16:37:07 **** Incremental Build of configuration Debug for project Check Whether a Number is Positive or Negitive ****
+17:03:29 **** Incremental Build of configuration Debug for project Check Whether a Character is an Alphabet or not ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Check Whether a Number is Positive or Negitive.exe" main.o 
-Info: Nothing to build for Check Whether a Number is Positive or Negitive
+gcc -o "Check Whether a Character is an Alphabet or not.exe" main.o 
+Info: Nothing to build for Check Whether a Character is an Alphabet or not

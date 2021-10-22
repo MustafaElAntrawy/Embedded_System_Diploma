@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+	char a = 'a', z = 'z' ,A = 'A', Z ='Z';
+	printf("a: %d" , a);
+	printf("z: %d" , z);
+	printf("A: %d" , A);
+	printf("Z: %d" , Z);
+
+	return 0;
+}
