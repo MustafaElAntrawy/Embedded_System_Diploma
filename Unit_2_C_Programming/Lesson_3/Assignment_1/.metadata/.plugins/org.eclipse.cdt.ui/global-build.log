@@ -1,5 +1,5 @@
-15:24:29 **** Incremental Build of configuration Debug for project Multiply two Floating Point Numbers ****
+15:27:55 **** Rebuild of configuration Debug for project Find ASCII Value of a Character ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Multiply two Floating Point Numbers.exe" main.o 
-Info: Nothing to build for Multiply two Floating Point Numbers
+gcc -o "Find ASCII Value of a Character.exe" main.o 
+Info: Nothing to build for Find ASCII Value of a Character
