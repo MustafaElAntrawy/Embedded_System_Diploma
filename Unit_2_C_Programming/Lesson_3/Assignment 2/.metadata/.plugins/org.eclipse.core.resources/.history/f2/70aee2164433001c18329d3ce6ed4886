@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main(){
+	float a, b ,c;
+	printf("Enter three numbers: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%f %f %f", &a, &b, &c);
+
+	if(a > b){
+		if (a > c) printf ("Largest number = %6.g", a);
+		else printf ("Largest number = %6.g", c);
+	}else{
+		if (b > c) printf ("Largest number = %6.g", b);
+		else printf ("Largest number = %6.g", c);
+	}
+
+	return 0;
+}

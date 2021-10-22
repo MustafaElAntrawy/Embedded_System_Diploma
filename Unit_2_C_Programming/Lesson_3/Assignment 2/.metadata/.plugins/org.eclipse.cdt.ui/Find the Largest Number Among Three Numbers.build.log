@@ -2,3 +2,6 @@
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
 gcc -o "Find the Largest Number Among Three Numbers.exe" main.o 
+
+16:28:24 Build Finished (took 592ms)
+
