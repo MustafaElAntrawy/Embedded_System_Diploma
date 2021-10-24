@@ -1,5 +1,5 @@
-21:20:19 **** Incremental Build of configuration Debug for project Find Sum of Two Matrix ****
+21:36:01 **** Incremental Build of configuration Debug for project Calculate Average Using Arrays ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Find Sum of Two Matrix.exe" main.o 
-Info: Nothing to build for Find Sum of Two Matrix
+gcc -o "Calculate Average Using Arrays.exe" main.o 
+Info: Nothing to build for Calculate Average Using Arrays
