@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(){
+	float m1[2][2], m2[2][2];
+	printf("Enter the elements of 1st matrix");
+	int i = 0, j = 0;
+	for(j; j < 2; ++j){
+		for(i; i <2; ++i){
+			printf("Enter a%d%d", j, i);
+			fflush(stdin);fflush(stdout);
+			scanf("%f", &m[j][i]);
+		}
+	}
+	return 0;
+}
