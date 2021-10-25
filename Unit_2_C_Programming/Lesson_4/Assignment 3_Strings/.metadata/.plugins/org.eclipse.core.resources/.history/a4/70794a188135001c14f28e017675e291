@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main (){
+	char text[100];
+	char c;
+	printf("Enter a String: ");
+	fflush(stdin); fflush(stdout);
+	gets(text);
+	printf("Output: %s", text);
+
+
+	return 0;
+}
