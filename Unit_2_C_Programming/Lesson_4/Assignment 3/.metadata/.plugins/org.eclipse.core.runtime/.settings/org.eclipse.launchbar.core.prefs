@@ -1,6 +1,6 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:Find Sum of Two Matrix.exe,org.eclipse.launchbar.core.descriptorType.default\:Calculate Average Using Arrays.exe,org.eclipse.launchbar.core.descriptorType.default\:Find Transpose of a Matrix.exe,org.eclipse.launchbar.core.descriptorType.default\:Insert an element in an Array.exe
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Find Sum of Two Matrix.exe,org.eclipse.launchbar.core.descriptorType.default\:Calculate Average Using Arrays.exe,org.eclipse.launchbar.core.descriptorType.default\:Find Transpose of a Matrix.exe,org.eclipse.launchbar.core.descriptorType.default\:Insert an element in an Array.exe,org.eclipse.launchbar.core.descriptorType.default\:Search an element in Array.exe
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:Calculate\ Average\ Using\ Arrays.exe/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:Calculate\ Average\ Using\ Arrays.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
