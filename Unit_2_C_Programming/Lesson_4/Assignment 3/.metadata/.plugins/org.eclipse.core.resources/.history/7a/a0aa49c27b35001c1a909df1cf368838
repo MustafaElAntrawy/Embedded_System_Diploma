@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main (){
+	int arr[100];
+
+	printf("Enter number of elements: ");
+	fflush(stdin); fflush(stdout);
+
+
+	return 0;
+}
