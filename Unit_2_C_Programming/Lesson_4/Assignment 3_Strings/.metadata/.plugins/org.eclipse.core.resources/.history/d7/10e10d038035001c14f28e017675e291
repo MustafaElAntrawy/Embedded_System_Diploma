@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main (){
+	char text[100];
+	char c;
+	printf("Enter a String: ");
+	fflush(stdin); fflush(stdout);
+	gets(text);
+	printf("Enter a character to find frequency: ");
+
+	return 0;
+}
