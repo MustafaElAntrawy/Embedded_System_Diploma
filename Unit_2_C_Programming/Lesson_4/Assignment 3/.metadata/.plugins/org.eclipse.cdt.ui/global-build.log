@@ -1,5 +1,5 @@
-21:36:01 **** Incremental Build of configuration Debug for project Calculate Average Using Arrays ****
+11:53:58 **** Incremental Build of configuration Debug for project Find Transpose of a Matrix ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Calculate Average Using Arrays.exe" main.o 
-Info: Nothing to build for Calculate Average Using Arrays
+gcc -o "Find Transpose of a Matrix.exe" main.o 
+Info: Nothing to build for Find Transpose of a Matrix
