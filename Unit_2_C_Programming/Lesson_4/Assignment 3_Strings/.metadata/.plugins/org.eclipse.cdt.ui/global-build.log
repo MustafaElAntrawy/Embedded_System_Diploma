@@ -1,5 +1,5 @@
-12:48:34 **** Incremental Build of configuration Debug for project Find the Length of a String ****
+12:58:43 **** Incremental Build of configuration Debug for project Reverse String Without Using Library Function ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Find the Length of a String.exe" main.o 
-Info: Nothing to build for Find the Length of a String
+gcc -o "Reverse String Without Using Library Function.exe" main.o 
+Info: Nothing to build for Reverse String Without Using Library Function
