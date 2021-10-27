@@ -1,5 +1,5 @@
-15:06:55 **** Incremental Build of configuration Debug for project Calculate Factorial of a Number ****
+15:15:43 **** Incremental Build of configuration Debug for project Reverse a Sentence Using Recursion ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Calculate Factorial of a Number.exe" main.o 
-Info: Nothing to build for Calculate Factorial of a Number
+gcc -o "Reverse a Sentence Using Recursion.exe" main.o 
+Info: Nothing to build for Reverse a Sentence Using Recursion

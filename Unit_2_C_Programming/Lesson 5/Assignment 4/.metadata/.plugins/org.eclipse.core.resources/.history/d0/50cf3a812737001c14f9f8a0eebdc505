@@ -1,0 +1,14 @@
+#include "stdio.h"
+#include "string.h"
+
+void revesrse_sentence();
+
+int main(){
+	char s[];
+	printf("Enter a sentence: ");
+	fflush(stdin); fflush(stdout);
+	gets(s);
+	printf("%s",s);
+
+	return 0;
+}
