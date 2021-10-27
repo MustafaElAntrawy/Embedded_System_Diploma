@@ -1,0 +1,11 @@
+#include "stdio.h"
+
+int calculate_factorial(int n);
+
+int main(){
+	int n;
+	printf("Enter a positive integer: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%d", &n);
+	return 0;
+}

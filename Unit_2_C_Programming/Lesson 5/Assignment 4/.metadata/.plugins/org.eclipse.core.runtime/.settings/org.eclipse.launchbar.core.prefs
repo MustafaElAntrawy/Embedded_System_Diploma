@@ -1,6 +1,6 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:Prime Numbers.exe
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Prime Numbers.exe,org.eclipse.launchbar.core.descriptorType.default\:Calculate Factorial of a Number.exe
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:Prime\ Numbers.exe/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:Prime\ Numbers.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

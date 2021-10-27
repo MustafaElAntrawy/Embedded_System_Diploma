@@ -1,5 +1,5 @@
-14:55:55 **** Incremental Build of configuration Debug for project Prime Numbers ****
+15:06:55 **** Incremental Build of configuration Debug for project Calculate Factorial of a Number ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Prime Numbers.exe" main.o 
-Info: Nothing to build for Prime Numbers
+gcc -o "Calculate Factorial of a Number.exe" main.o 
+Info: Nothing to build for Calculate Factorial of a Number
