@@ -1,5 +1,5 @@
-16:43:33 **** Incremental Build of configuration Debug for project Add Two Distances ****
+16:48:27 **** Rebuild of configuration Debug for project Add Two Complex Number ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Add Two Distances.exe" main.o 
-Info: Nothing to build for Add Two Distances
+gcc -o "Add Two Complex Number.exe" main.o 
+Info: Nothing to build for Add Two Complex Number
