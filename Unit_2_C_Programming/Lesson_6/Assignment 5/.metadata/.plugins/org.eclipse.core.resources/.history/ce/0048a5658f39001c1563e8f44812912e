@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <string.h>
+
+struct Distance {
+float feet;
+float inch;
+};
+
+struct Distance get_distance();
+void print_sum(struct Distance d1, struct Distance d2);
+int main()
+{
+struct Distance dis_1, dis_2;
+printf("Enter 1st distance:\n");
+dis_1 = get_distance();
+printf("Enter 2nd distance:\n");
+dis_2 = get_distance();
+print_sum(dis_1, dis_2);
+return 0;
+}
+
+struct Distance get_distance(){
+struct Distance d;
+printf("Enter feet: ");
+fflush(stdin); fflush(stdout);
+scanf("%f", &d.feet);
+printf("Enter inch: ");
+fflush(stdin); fflush(stdout);
+scanf("%f", &d.inch);
+return d;
+}
+
+void print_sum(struct Distance d1, struct Distance d2){
+struct Distance sum;
+float total_feets = d1.feet + d2.feet;
+float total_inches = d1.inch + d2.inch;
+printf("incheeeeeeeeeeeees %.2f'\n",total_inches);
+sum.feet = total_feets + (int) total_inches / 12;
+sum.inch = total_inches / 12;
+printf("Sum of distances = %.0f\" - %.2f'", sum.feet, sum.inch);
+}
+
