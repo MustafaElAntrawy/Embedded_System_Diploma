@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+struct Employee{
+	char *name;
+	int id;
+};
+
+int main(){
+	struct Employee employee1 = {"Alex", 20};
+
+
+	return 0;
+}

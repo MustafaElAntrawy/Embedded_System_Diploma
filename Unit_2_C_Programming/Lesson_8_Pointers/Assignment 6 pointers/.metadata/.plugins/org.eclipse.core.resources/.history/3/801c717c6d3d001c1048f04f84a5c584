@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <string.h>
+
+struct Employee{
+	char name[30];
+	int id;
+};
+
+int main(){
+	struct Employee employee1, employee2 , employee3;
+	strcpy(employee1.name,"Ahmad"); employee1.id = 20;
+	//employee2.name = strcpy("Amr"); employee1.id = 21;
+	//employee2.name = strcpy("Maher"); employee1.id = 22;
+	printf("%s",employee1.name);
+
+
+
+	return 0;
+}
