@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main(){
+	char alph[27];
+	char* ptr = alph;
+	int i;
+	for (i = 0; i < 27; ++i){
+		*ptr = 'A' + i;
+		ptr++;
+	}
+
+	for (i = 0; i < 27; ++i){
+		printf("%c\t",*ptr++);
+	}
+
+
+
+	return 0;
+}

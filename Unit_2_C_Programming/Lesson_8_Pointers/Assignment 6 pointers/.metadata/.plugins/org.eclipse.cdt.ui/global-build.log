@@ -1,5 +1,5 @@
-14:03:26 **** Incremental Build of configuration Debug for project Handel Pointers in program ****
+14:14:32 **** Incremental Build of configuration Debug for project Printing alphabets using a pointer ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Handel Pointers in program.exe" main.o 
-Info: Nothing to build for Handel Pointers in program
+gcc -o "Printing alphabets using a pointer.exe" main.o 
+Info: Nothing to build for Printing alphabets using a pointer
