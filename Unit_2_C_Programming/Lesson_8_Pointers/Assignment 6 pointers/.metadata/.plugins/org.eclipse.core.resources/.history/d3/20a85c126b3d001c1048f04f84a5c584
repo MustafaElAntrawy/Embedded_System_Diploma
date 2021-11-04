@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main(){
+	int arr[15];
+	int n;
+	printf("Input the number of elements to store in the array (max 15): ");
+	fflush(stdin); fflush(stdout);
+	scanf("%d",&n);
+	printf("Input %d number of elements in the array : \n", n);
+	int i;
+	for (i = 0; i < n; ++i){
+		printf("element - %d : ", i + 1);
+		fflush(stdin); fflush(stdout);
+		scanf("%d",&arr[i]);
+
+	}
+
+
+
+	return 0;
+}
