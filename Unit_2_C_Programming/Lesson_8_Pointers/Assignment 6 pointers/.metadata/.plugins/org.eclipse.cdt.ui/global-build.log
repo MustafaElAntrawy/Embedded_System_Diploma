@@ -1,5 +1,5 @@
-14:14:32 **** Incremental Build of configuration Debug for project Printing alphabets using a pointer ****
+14:22:35 **** Incremental Build of configuration Debug for project Print String in reverse ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o "Printing alphabets using a pointer.exe" main.o 
-Info: Nothing to build for Printing alphabets using a pointer
+gcc -o "Print String in reverse.exe" main.o 
+Info: Nothing to build for Print String in reverse

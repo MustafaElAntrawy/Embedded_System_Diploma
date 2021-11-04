@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include<string.h>
+
+int main(){
+	char input[30];
+	printf("Input a string:");
+	fflush(stdin); fflush(stdout);
+	get(input);
+
+
+	return 0;
+}
