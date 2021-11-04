@@ -1,0 +1,5 @@
+14:03:26 **** Incremental Build of configuration Debug for project Handel Pointers in program ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Handel Pointers in program.exe" main.o 
+Info: Nothing to build for Handel Pointers in program
