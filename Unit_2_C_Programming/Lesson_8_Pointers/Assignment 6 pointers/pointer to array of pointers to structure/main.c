@@ -22,7 +22,5 @@ int main(){
 	printf("Third Employee name: %s\n", (**(*ptr + 2)).name);
 	printf("Third Employee Id: %d\n", (**(*ptr + 2)).id);
 
-
-
 	return 0;
 }
