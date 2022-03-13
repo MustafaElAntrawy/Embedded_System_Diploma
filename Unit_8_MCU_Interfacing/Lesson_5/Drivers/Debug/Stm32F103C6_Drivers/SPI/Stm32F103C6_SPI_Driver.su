@@ -1,0 +1,8 @@
+Stm32F103C6_SPI_Driver.c:42:6:MCAL_SPI_Init	24	static
+Stm32F103C6_SPI_Driver.c:108:6:MCAL_SPI_DeInit	16	static
+Stm32F103C6_SPI_Driver.c:129:6:MCAL_SPI_GPIO_Set_Pins	24	static
+Stm32F103C6_SPI_Driver.c:283:6:MCAL_SPI_SendData	24	static
+Stm32F103C6_SPI_Driver.c:302:6:MCAL_SPI_ReceiveData	24	static
+Stm32F103C6_SPI_Driver.c:318:6:MCAL_SPI_TX_RX	24	static
+Stm32F103C6_SPI_Driver.c:329:6:SPI1_IRQHandler	16	static
+Stm32F103C6_SPI_Driver.c:338:6:SPI2_IRQHandler	16	static
